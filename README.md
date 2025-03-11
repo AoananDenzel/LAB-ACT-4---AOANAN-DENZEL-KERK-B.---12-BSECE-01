@@ -1,1 +1,5 @@
 # LAB-ACT-4---AOANAN-DENZEL-KERK-B.---12-BSECE-01
+MAKING AN PROGRAM THAT DETERMINE THE GRADES IN LETTERS
+
+video data of the guide:
+https://youtu.be/rcsFXOHcd_w?si=OlXB3H2tUNVaavFZ
